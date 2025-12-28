@@ -1,14 +1,3 @@
-Below is a **complete, ready-to-use README.md** generated from your provided C++ source code.
-You can copy-paste this directly into your project repository.
-
----
-
-![Image](https://other-levels.com/cdn/shop/products/Personal-Finance-Excel-Template-_-Advanced-Budgeting-Tool-Other-Levels-17250273.png?v=1759939088\&width=1920)
-
-![Image](https://www.vitoshacademy.com/wp-content/uploads/2014/08/C%2B%2Bbook.png)
-
-![Image](https://repository-images.githubusercontent.com/881979565/70cad97a-5b1a-4171-b8b5-211ce571d7d3)
-
 # 💰 Personal Finance Tracker (C++ Console Application)
 
 ## 📌 Project Overview
